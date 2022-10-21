@@ -1,5 +1,6 @@
 import json as js
 import csv
+from socket import setdefaulttimeout
 from tkinter import W
 from employees import Employee
 
@@ -8,39 +9,40 @@ class JsonGenerator:
     def __init__(self, filename = None):
         self.FileName = filename
         self.employees = []
+        self.DeptName = self.FileName[:-12]
 
-    def processcsv(self, filename):
-        with open(filename, newline='') as csvfile:
+    def processcsv(self):
+        with open(self.FileName, newline='') as csvfile:
             reader = csv.reader(csvfile)
             header = True
             for row in reader:
                 if header is False:
-                    #self.employees.append(self.loademployees(row))
-                    self.employees.append(row)
+                    self.employees.append(self.loademployees(row))
                 else:
                     header = False
                 
         #Load data from the csv into a list of employees
                 
     def loademployees(self, list):
-        N = list[0]
-        T = list[1]
-        E = list[2]
-        P = list[3]
-        O = list[4]
-        B = list[5]
-        C = list[6]
-        return Employee(N,T,E,P,O,B,C)
+        employeedict = {"Name": list[0]}
+        employeedict["Title"] = list[1]
+        employeedict["Email"] = list[2]
+        employeedict["Phone"] = list[3]
+        employeedict["Office"] = list[4]
+        employeedict["Bio"] = list[5]
+        employeedict["Contact for"] = list[6]
+        return employeedict
 
     def writejson(self):
-        pass
+        jsonfilename = str(self.DeptName + ".json")
+        with open(jsonfilename, 'w') as json:
+            js.dump(self.employees, json, indent="    ")
+        
 
         
 
 
 if __name__ == "__main__":
-    t = JsonGenerator()
-    t.processcsv("cmeDeptInfo.csv")
-
-    with open('test.json', 'w') as json:
-        js.dump(t.employees, json)
+    t = JsonGenerator("cmeDeptInfo.csv")
+    t.processcsv()
+    t.writejson()
