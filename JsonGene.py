@@ -1,8 +1,5 @@
 import json as js
 import csv
-from socket import setdefaulttimeout
-from tkinter import W
-from employees import Employee
 
 
 class JsonGenerator:
@@ -20,8 +17,6 @@ class JsonGenerator:
                     self.employees.append(self.loademployees(row))
                 else:
                     header = False
-                
-        #Load data from the csv into a list of employees
                 
     def loademployees(self, list):
         employeedict = {"Name": list[0]}
