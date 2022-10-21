@@ -1,9 +1,10 @@
 import json as js
+from employees import Employee
 
+class JsonGenerator:
+    def __init__(self):
+        pass
 
-
-if __name__ == "__main__":
-    test = {"Name":'grade'}
-    with open ("data_file.json", 'w') as write_file:
-        js.dump(test, write_file)
-    json_string = js.dump(test)
+    def loademployees(self):
+        #Load data from the csv into a list of employees
+        pass
