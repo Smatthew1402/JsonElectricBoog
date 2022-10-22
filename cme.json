@@ -1,147 +1,147 @@
 [
-[
-"Dr. Karen Adams",
-{
-"Title": "Associate Professor of Mathematics",
-"Email": "kadams@shepherd.ed",
-"Phone": "304-875-5772",
-"Office": "311B Stutzman-Slonaker Hall",
-"Bio": "Dr. Adams teaches courses in Calculus, Discrete Mathematics, and Algebra and also supervises student teachers."
-}
-],
-[
-"Jessie Butcher",
-{
-"Title": "Adjunct Professor",
-"Email": "jbutcher@shepherd.ed",
-"Bio": "Professor Butcher teaches robotics. She coaches the Shepherd University Robotics Team which entered the VEX U college and university robotics competition for the first time in 2022."
-}
-],
-[
-"Dr. Mohammadreza Ghahremani",
-{
-"Title": "Associate Professor of Computer and Information Sciences",
-"Email": "mghahrem@shepherd.ed",
-"Phone": "304-876-5783",
-"Office": "204C Stutzman-Slonaker Hall",
-"Bio": "Magnetic materials"
-}
-],
-[
-"Dr. Osman Guzide",
-{
-"Title": "Professor of Computer Science and Information Sciences",
-"Email": "oguzide@shepherd.ed",
-"Phone": "304-876-5017",
-"Office": "211F Stutzman-Slonaker Hall",
-"Bio": "CME Department Chair Dr. Osman Guzide teaches courses in networks and security.\nSchedule."
-}
-],
-[
-"Nafiseh Jahanbakht",
-{
-"Title": "Mathematics Lecturer",
-"Email": "njahanba@shepherd.ed",
-"Office": "107 Stutzman Slonaker",
-"Bio": "Ms. Jahanbakht teaches courses in mathematics."
-}
-],
-[
-"Dr. Weidong Liao",
-{
-"Title": "Professor of Computer Science and Information Sciences",
-"Email": "wliao@shepherd.ed",
-"Phone": "304-876-5031",
-"Office": "211E Stutzman-Slonaker Hall",
-"Bio": "Dr. Weidong teaches courses in Web Programming and Windows Programming."
-}
-],
-[
-"Dr. Nicholas Martin",
-{
-"Title": "Professor of Mathematics",
-"Email": "horvat@shepherd.ed",
-"Phone": "304-876-5336",
-"Office": "311A Stutzman-Slonaker Hall",
-"Bio": "Professor Emeritus, Retired"
-}
-],
-[
-"Jason Miller",
-{
-"Title": "Assistant Professor of Computer Science",
-"Email": "jmill02@shepherd.ed",
-"Phone": "304-876-5070",
-"Office": "309 Byrd Science and Technology Center",
-"Bio": "Jason Miller develops software for bioinformatics. He has published over 30 peer-reviewed papers on genome assembly, DNA annotation, RNA expression, and machine learning."
-}
-],
-[
-"Dr. Donald Mills",
-{
-"Title": "Assistant Professor of Mathematics",
-"Email": "dmills@shepherd.ed",
-"Phone": "304-876-5407",
-"Office": "204B Stutzman-Slonaker Hall",
-"Bio": "Dr. Mills conducts research on secure communications."
-}
-],
-[
-"Reza Mirdamadi",
-{
-"Title": "Associate Professor of Engineering",
-"Email": "rmirdama@shepherd.ed",
-"Phone": "304-876-5368",
-"Office": "225 Snyder Hall",
-"Bio": "Professor Mirdamadi teaches courses in engineering, robotics, and mathematics."
-}
-],
-[
-"Dr. Robert Monahan",
-{
-"Title": "Mathematics Lecturer",
-"Email": "rmonahan@shepherd.ed",
-"Phone": "304-876-5359",
-"Office": "304 Stutzman Slonaker",
-"Bio": "Dr. Monahan teaches courses in mathematics."
-}
-],
-[
-"Dr. Françoise Nelles",
-{
-"Title": "Lecturer and Coordinator of Mathematics",
-"Email": "fnelles@shepherd.ed",
-"Phone": "304-876-5333",
-"Office": "305 Stutzman-Slonaker",
-"Bio": "Mathematics"
-}
-],
-[
-"Ken Shaw",
-{
-"Title": "Adjunct Professor",
-"Email": "jshawsr@shepherd.ed",
-"Office": "105 Stutzman-Slonaker Hall",
-"Bio": "Professor Shaw teaches applied mathematics and statistics."
-}
-],
-[
-"Roger Snook",
-{
-"Title": "Adjunct Professor",
-"Email": "rsnook@shepherd.ed",
-"Office": "Write c/o CME Department or visit www.linkedin.com/in/rogersnook",
-"Bio": "Professor Snook is a certified IBM cloud architect, author, inventor, and mobile app developer. He incorporates Enterprise Design Thinking in classes at Shepherd."
-}
-],
-[
-"Dr. Qing Wang",
-{
-"Title": "Professor of Mathematics",
-"Email": "qwang@shepherd.ed",
-"Phone": "304-876-5643",
-"Office": "211B Stutzman-Slonaker Hall",
-"Bio": "Dr. Wang’s research is focused on modeling, simulation, and analysis of cancer tumors."
-}
-]
+    [
+        "Dr. Karen Adams",
+        {
+            "Title": "Associate Professor of Mathematics",
+            "Email": "kadams@shepherd.ed",
+            "Phone": "304-875-5772",
+            "Office": "311B Stutzman-Slonaker Hall",
+            "Bio": "Dr. Adams teaches courses in Calculus, Discrete Mathematics, and Algebra and also supervises student teachers."
+        }
+    ],
+    [
+        "Jessie Butcher",
+        {
+            "Title": "Adjunct Professor",
+            "Email": "jbutcher@shepherd.ed",
+            "Bio": "Professor Butcher teaches robotics. She coaches the Shepherd University Robotics Team which entered the VEX U college and university robotics competition for the first time in 2022."
+        }
+    ],
+    [
+        "Dr. Mohammadreza Ghahremani",
+        {
+            "Title": "Associate Professor of Computer and Information Sciences",
+            "Email": "mghahrem@shepherd.ed",
+            "Phone": "304-876-5783",
+            "Office": "204C Stutzman-Slonaker Hall",
+            "Bio": "Magnetic materials"
+        }
+    ],
+    [
+        "Dr. Osman Guzide",
+        {
+            "Title": "Professor of Computer Science and Information Sciences",
+            "Email": "oguzide@shepherd.ed",
+            "Phone": "304-876-5017",
+            "Office": "211F Stutzman-Slonaker Hall",
+            "Bio": "CME Department Chair Dr. Osman Guzide teaches courses in networks and security.\nSchedule."
+        }
+    ],
+    [
+        "Nafiseh Jahanbakht",
+        {
+            "Title": "Mathematics Lecturer",
+            "Email": "njahanba@shepherd.ed",
+            "Office": "107 Stutzman Slonaker",
+            "Bio": "Ms. Jahanbakht teaches courses in mathematics."
+        }
+    ],
+    [
+        "Dr. Weidong Liao",
+        {
+            "Title": "Professor of Computer Science and Information Sciences",
+            "Email": "wliao@shepherd.ed",
+            "Phone": "304-876-5031",
+            "Office": "211E Stutzman-Slonaker Hall",
+            "Bio": "Dr. Weidong teaches courses in Web Programming and Windows Programming."
+        }
+    ],
+    [
+        "Dr. Nicholas Martin",
+        {
+            "Title": "Professor of Mathematics",
+            "Email": "horvat@shepherd.ed",
+            "Phone": "304-876-5336",
+            "Office": "311A Stutzman-Slonaker Hall",
+            "Bio": "Professor Emeritus, Retired"
+        }
+    ],
+    [
+        "Jason Miller",
+        {
+            "Title": "Assistant Professor of Computer Science",
+            "Email": "jmill02@shepherd.ed",
+            "Phone": "304-876-5070",
+            "Office": "309 Byrd Science and Technology Center",
+            "Bio": "Jason Miller develops software for bioinformatics. He has published over 30 peer-reviewed papers on genome assembly, DNA annotation, RNA expression, and machine learning."
+        }
+    ],
+    [
+        "Dr. Donald Mills",
+        {
+            "Title": "Assistant Professor of Mathematics",
+            "Email": "dmills@shepherd.ed",
+            "Phone": "304-876-5407",
+            "Office": "204B Stutzman-Slonaker Hall",
+            "Bio": "Dr. Mills conducts research on secure communications."
+        }
+    ],
+    [
+        "Reza Mirdamadi",
+        {
+            "Title": "Associate Professor of Engineering",
+            "Email": "rmirdama@shepherd.ed",
+            "Phone": "304-876-5368",
+            "Office": "225 Snyder Hall",
+            "Bio": "Professor Mirdamadi teaches courses in engineering, robotics, and mathematics."
+        }
+    ],
+    [
+        "Dr. Robert Monahan",
+        {
+            "Title": "Mathematics Lecturer",
+            "Email": "rmonahan@shepherd.ed",
+            "Phone": "304-876-5359",
+            "Office": "304 Stutzman Slonaker",
+            "Bio": "Dr. Monahan teaches courses in mathematics."
+        }
+    ],
+    [
+        "Dr. Françoise Nelles",
+        {
+            "Title": "Lecturer and Coordinator of Mathematics",
+            "Email": "fnelles@shepherd.ed",
+            "Phone": "304-876-5333",
+            "Office": "305 Stutzman-Slonaker",
+            "Bio": "Mathematics"
+        }
+    ],
+    [
+        "Ken Shaw",
+        {
+            "Title": "Adjunct Professor",
+            "Email": "jshawsr@shepherd.ed",
+            "Office": "105 Stutzman-Slonaker Hall",
+            "Bio": "Professor Shaw teaches applied mathematics and statistics."
+        }
+    ],
+    [
+        "Roger Snook",
+        {
+            "Title": "Adjunct Professor",
+            "Email": "rsnook@shepherd.ed",
+            "Office": "Write c/o CME Department or visit www.linkedin.com/in/rogersnook",
+            "Bio": "Professor Snook is a certified IBM cloud architect, author, inventor, and mobile app developer. He incorporates Enterprise Design Thinking in classes at Shepherd."
+        }
+    ],
+    [
+        "Dr. Qing Wang",
+        {
+            "Title": "Professor of Mathematics",
+            "Email": "qwang@shepherd.ed",
+            "Phone": "304-876-5643",
+            "Office": "211B Stutzman-Slonaker Hall",
+            "Bio": "Dr. Wang’s research is focused on modeling, simulation, and analysis of cancer tumors."
+        }
+    ]
 ]

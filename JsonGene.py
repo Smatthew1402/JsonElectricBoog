@@ -57,7 +57,7 @@ class JsonGenerator:
         """
         jsonfilename = str(self.DeptName + ".json")
         with open(jsonfilename, 'w') as json:
-            js.dump(self.employees, json, indent = 0, ensure_ascii=False)
+            js.dump(self.employees, json, indent = '    ', ensure_ascii=False)
         
 
         
